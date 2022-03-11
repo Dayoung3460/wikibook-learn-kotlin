@@ -19,4 +19,5 @@ fun main(args : Array<String>) {
         it >= 3
     }
     println(count2)
+
 }
